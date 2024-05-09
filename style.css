@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    line-height: 1.7em;
+}
+h1,h2,h3,h4{
+    
+}
+a{
+    color: coral;
+}
+#navbar{
+    background-color:#333;
+    color:beige;
+    overflow: auto;
+}
+#navbar h1{
+    float: left;
+    margin: 20px;
+}
+#navbar ul{
+    list-style: none;
+    float: right;
+}
+#navbar ul li{
+    float: left;
+}
+#navbar ul li{
+    display: block;
+    padding: 20px;
+}
